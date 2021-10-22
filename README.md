@@ -1,12 +1,13 @@
-#  demo
+#  1. demo
 
 some  description
   
-  ##  git command
+  ##  1.1. git command
         git config –global user.name “[name]” ->sets author name
         git config –global user.email “[email address]” ->sets author email id
 
-        git init [repository name] ->start new repository
+        git init [repository name] ->start new - [1. demo](#1-demo)
+  - [1.1. git command](#11-git-command)repository
 
         git clone [url] ->obtain a repository from an existing URL.
 
